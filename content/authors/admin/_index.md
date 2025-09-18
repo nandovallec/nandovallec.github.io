@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Fernando
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Fernando
+last_name: Vallecillos Ruiz
 
 # Pronouns (optional)
 pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 💾
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,147 +23,161 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Simula Research Laboratory
+    url: https://www.simula.no/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/fernando-vallecillos/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=aj7UKqMAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/my-orcid?orcid=0000-0001-7213-3732
 
 interests:
-  - Large Language Models
+  - AI for Cybersecurity
+  - Recommender Systems
+  - Autonomous Systems
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Edge/Green Computing
+  - Big Data & Data Engineering
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: EIT Digital Master (Autonomous Systems)
+    institution: "KTH Royal Institute of Technology (Stockholm) & Technische Universität Berlin"
+    date_start: 2021-10-01
+    date_end: 2023-09-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+      Dual master's degree in ICT Innovation: Autonomous Systems (EIT Digital).
+      GPA (TU Berlin): 9.0/10 · GPA (KTH): 9.6/10.
+  - area: BSc Computer Engineering
+    institution: "University of Granada, Spain"
+    date_start: 2016-09-01
+    date_end: 2021-07-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      GPA: 8.8/10.
+      Earned 5 distinction grades in first two years (e.g., OOP, AI, Databases).
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Ph.D. Candidate & Researcher (AI/ML)
+    company_name: Simula Research Laboratory
+    company_url: ''
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: ''   # TODO: add start date (YYYY-MM-DD)
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Researcher and Ph.D. candidate focusing on AI/ML with strong interest in cybersecurity and its intersection with AI.
+      Global academic experience across Spain, the U.S., Germany, Sweden, and Japan.
+  - position: AI/Machine Learning Developer Intern
+    company_name: Gigstarter
+    company_url: ''
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2020-10-01
+    date_end: 2021-07-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      • Built and deployed a recommender system for platform artists using data science and ML.
+      • Implemented and launched the JIVE web application in React.
+      • Delivered fixes and improvements on the server (Ruby on Rails) and database (PostgreSQL).
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python & PyTorch
         description: ''
-        percent: 95
+        percent: 90
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Machine Learning & Recommenders
         description: ''
         percent: 90
+        icon: chart-bar
+      - name: Data Engineering (Spark, Parquet)
+        description: ''
+        percent: 80
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Web (React, Ruby on Rails)
+        description: ''
+        percent: 80
+        icon: window
+      - name: Databases (PostgreSQL)
+        description: ''
+        percent: 80
+        icon: database
+      - name: Cybersecurity (anomaly detection)
         description: ''
         percent: 70
-        icon: book-open
+        icon: shield-check
 
 languages:
-  - name: English
-    percent: 100
   - name: Spanish
-    percent: 50
+    percent: 100
+  - name: English
+    percent: 90
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: 2nd Prize — KTH AI Hackathon (TuneStar)
+    url: ''
+    date: '2022-09-01'
+    awarder: KTH Royal Institute of Technology
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
+      Web app that extracts emotions via DeepFace and recommends songs based on emotional state.
+  - title: Winner — EIT Digital Summer School (Cybersecurity)
+    url: ''
+    date: '2022-08-01'
+    awarder: EIT Digital
+    icon: hero/trophy
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      Led HADIX: a digital-twin anomaly detection concept for Industry 4.0; pitched to investors with a full business plan.
+  - title: Popular Vote Winner — Green Mini Clouds
+    url: ''
+    date: '2022-07-01'
+    awarder: EIT Digital
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Designed a decentralized, emission-less edge-computing provider powered by renewable energy.
+
+projects:
+  - name: TuneStar
+    date_start: 2022-09-01
+    date_end: 2022-09-30
+    summary: |
+      2nd Prize at KTH AI Hackathon. Emotion extraction with DeepFace to recommend music aligned to user state.
+  - name: HADIX
+    date_start: 2022-08-01
+    date_end: 2022-08-31
+    summary: |
+      Winner at EIT Digital Summer School (Cybersecurity). Digital-twin anomaly detection for Industry 4.0; business plan and investor pitch.
+  - name: Green Mini Clouds
+    date_start: 2022-03-01
+    date_end: 2022-07-31
+    summary: |
+      Popular vote winner among 12 teams. Concept for decentralized, renewable-powered edge computing.
+  - name: Bi4 Academy
+    date_start: 2020-02-01
+    date_end: 2020-03-31
+    summary: |
+      100-hour big data project using Python, Apache Parquet, Spark, and ML.
+  - name: 2019 PRMU Challenge
+    date_start: 2019-06-01
+    date_end: 2019-08-31
+    summary: |
+      Applied algorithmic and CNN approaches to recognize characters in historical Japanese documents.
+  - name: Spaniards and Silicon Valley Program
+    date_start: 2019-07-01
+    date_end: 2019-09-30
+    summary: |
+      Six-week mentorship from software engineers focused on interview prep for tech companies.
+  - name: Google Student Developer Club (Member)
+    date_start: 2019-10-01
+    date_end: 2020-10-31
+    summary: |
+      Front-end contributor on student projects and events.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Fernando Vallecillos Ruiz is an AI/ML Developer and Ph.D. candidate at Simula Research Laboratory, where he focuses on LLM-Based Automatic Software Improvement—using large language models to detect, repair, and optimize code. He holds a dual master’s in ICT Innovation (Autonomous Systems) from KTH Royal Institute of Technology and TU Berlin, and a B.Sc. in Computer Engineering from the University of Granada. Having lived in Spain, the United States, Germany, Sweden, and Japan, he brings a global perspective to building practical ML systems and exploring the intersection of AI and cybersecurity.
