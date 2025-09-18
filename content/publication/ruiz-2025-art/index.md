@@ -11,6 +11,7 @@ publication_types:
 - manuscript
 publication: '*arXiv*'
 doi: 10.48550/arXiv.2505.02931
+featured: true
 abstract: 'Automatic program repair (APR) aims to reduce the manual efforts required
   to identify and fix errors in source code. Before the rise of LLM-based agents,
   a common strategy was to increase the number of generated patches, sometimes to
