@@ -9,6 +9,7 @@ publication_types:
 publication: '*Proceedings of the 28th International Conference on Evaluation and
   Assessment in Software Engineering*'
 doi: 10.1145/3661167.3661171
+featured: true
 abstract: With software maintenance accounting for 50% of the cost of developing software,
   enhancing code quality and reliability has become more critical than ever. In response
   to this challenge, this doctoral research proposal aims to explore innovative solutions
