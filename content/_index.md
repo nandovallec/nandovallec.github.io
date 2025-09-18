@@ -34,13 +34,42 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a Ph.D. candidate at Simula Research Laboratory working on LLM-Based Automatic Software Improvement—teaching large language models to detect bugs, refactor code, and optimize performance with minimal human guidance. My goal is to make software engineering faster, safer, and more sustainable.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I build practical ML systems informed by a global journey through Spain, the U.S., Germany, Sweden, and Japan, and I’m especially curious about the intersection of AI and cybersecurity: secure-by-default code generation, anomaly detection in CI/CD, and trustworthy tooling for developers.
 
-        Please reach out to collaborate 😃
+        What I’m exploring now:
+
+        - Self-refining agents for code repair and performance tuning
+        - Robust evaluation of AI-generated patches (correctness, security, maintainability)
+        - Data pipelines for code intelligence (mining repos, tracing, and feedback loops)
+        - Privacy-preserving and safety-first practices for AI in software development
+
+        If you’re working on developer tools, secure AI, or code intelligence, let’s talk and collaborate 😃
     design:
       columns: '1'
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
   - block: collection
     id: papers
     content:

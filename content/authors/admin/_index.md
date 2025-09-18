@@ -117,7 +117,9 @@ languages:
   - name: Spanish
     percent: 100
   - name: English
-    percent: 90
+    percent: 100
+  - name: Japanese
+    precent: 20
 
 awards:
   - title: 2nd Prize — KTH AI Hackathon (TuneStar)
