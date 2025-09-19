@@ -47,12 +47,12 @@ interests:
   - Big Data & Data Engineering
 
 education:
-  - area: Master in ICT Innovation (Autonomous Systems)
+  - area: MSc ICT Innovation in Autonomous Systems
     institution: "KTH Royal Institute of Technology (Stockholm) & Technische Universität Berlin"
     date_start: 2021-10-01
     date_end: 2023-09-30
     summary: |
-      Dual master's degree in ICT Innovation: Autonomous Systems (Euripean Institute of Technology).
+      Dual master's degree in ICT Innovation: Autonomous Systems (European Institute of Technology).
       GPA (TU Berlin): 9.0/10 · GPA (KTH): 9.6/10.
   - area: BSc Computer Engineering
     institution: "University of Granada, Spain"
@@ -78,9 +78,9 @@ work:
     date_start: 2020-10-01
     date_end: 2021-07-31
     summary: |
-      • Built and deployed a recommender system for platform artists using data science and ML.
-      • Implemented and launched the JIVE web application in React.
-      • Delivered fixes and improvements on the server (Ruby on Rails) and database (PostgreSQL).
+      - Built and deployed a recommender system for platform artists using data science and ML.
+      - Implemented and launched the JIVE web application in React.
+      - Delivered fixes and improvements on the server (Ruby on Rails) and database (PostgreSQL).
 
 skills:
   - name: Technical Skills
@@ -123,7 +123,7 @@ awards:
     url: ''
     date: '2022-09-01'
     awarder: KTH Royal Institute of Technology
-    icon: hero/trophy
+    icon: hero/musical-note
     summary: |
       Web app that extracts emotions via DeepFace and recommends songs based on emotional state.
 

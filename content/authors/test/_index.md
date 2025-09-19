@@ -119,6 +119,13 @@ languages:
     precent: 20
 
 awards:
+  - title: Pint of Science Speaker
+    url: ''
+    date: '2025-10-01'
+    icon: hero/microphone
+    summary: |
+      Spoke at Pint of Science 2025 (Oslo) on AI agents and their impact. Received coaching on clear, engaging science communication for a general audience.
+      
   - title: Bi4 Academy
     url: ''
     date: '2020-03-31'
