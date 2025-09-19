@@ -34,21 +34,21 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I’m a Ph.D. candidate at Simula Research Laboratory working on LLM-Based Automatic Software Improvement—teaching large language models to detect bugs, refactor code, and optimize performance with minimal human guidance. My goal is to make software engineering faster, safer, and more sustainable.
+        I’m a Ph.D. candidate at Simula Research Laboratory working on LLM-Based Automatic Software Improvement. In other words, how to teach large language models to detect bugs, refactor code, and optimize performance with minimal human guidance. My goal is to make software engineering faster, safer, and more sustainable.
 
-        I build practical ML systems informed by a global journey through Spain, the U.S., Germany, Sweden, and Japan, and I’m especially curious about the intersection of AI and cybersecurity: secure-by-default code generation, anomaly detection in CI/CD, and trustworthy tooling for developers.
+        Having lived in Spain, the United States, Germany, Sweden, and Japan, I brings a global perspective to building practical ML systems.
 
-        What I’m exploring now:
-
+        What I’m exploring now
         - Self-refining agents for code repair and performance tuning
         - Robust evaluation of AI-generated patches (correctness, security, maintainability)
         - Data pipelines for code intelligence (mining repos, tracing, and feedback loops)
-        - Privacy-preserving and safety-first practices for AI in software development
+        - New approaches for code generation.
 
-        If you’re working on developer tools, secure AI, or code intelligence, let’s talk and collaborate 😃
+        If you’re working on code agents, developer tools, secure AI, or code intelligence, let’s talk and collaborate 😃
     design:
       columns: '1'
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
@@ -56,19 +56,15 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: admin
-    design:
-      show_skill_percentage: false
+  # - block: resume-skills
+  #   content:
+  #     title: Skills & Hobbies
+  #     username: admin
+  #   design:
+  #     show_skill_percentage: false
   - block: resume-awards
     content:
       title: Awards
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
       username: admin
   - block: collection
     id: papers

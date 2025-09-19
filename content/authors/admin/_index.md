@@ -41,20 +41,18 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0000-0001-7213-3732
 
 interests:
+  - Coding Agents
   - AI for Cybersecurity
-  - Recommender Systems
   - Autonomous Systems
-  - Computer Vision
-  - Edge/Green Computing
   - Big Data & Data Engineering
 
 education:
-  - area: EIT Digital Master (Autonomous Systems)
+  - area: Master in ICT Innovation (Autonomous Systems)
     institution: "KTH Royal Institute of Technology (Stockholm) & Technische Universität Berlin"
     date_start: 2021-10-01
     date_end: 2023-09-30
     summary: |
-      Dual master's degree in ICT Innovation: Autonomous Systems (EIT Digital).
+      Dual master's degree in ICT Innovation: Autonomous Systems (Euripean Institute of Technology).
       GPA (TU Berlin): 9.0/10 · GPA (KTH): 9.6/10.
   - area: BSc Computer Engineering
     institution: "University of Granada, Spain"
@@ -62,21 +60,20 @@ education:
     date_end: 2021-07-31
     summary: |
       GPA: 8.8/10.
-      Earned 5 distinction grades in first two years (e.g., OOP, AI, Databases).
+      Earned 5 distinction grades (e.g., OOP, AI, Databases).
 
 work:
-  - position: Ph.D. Candidate & Researcher (AI/ML)
+  - position: Ph.D. Candidate
     company_name: Simula Research Laboratory
-    company_url: ''
+    company_url: 'https://www.simula.no/'
     company_logo: ''
-    date_start: ''   # TODO: add start date (YYYY-MM-DD)
+    date_start: '2023-10-01'  
     date_end: ''
     summary: |2-
-      Researcher and Ph.D. candidate focusing on AI/ML with strong interest in cybersecurity and its intersection with AI.
-      Global academic experience across Spain, the U.S., Germany, Sweden, and Japan.
-  - position: AI/Machine Learning Developer Intern
+      Researcher and Ph.D. candidate focusing on LLM-based automatic software improvement.
+  - position: AI/Machine Learning Developer
     company_name: Gigstarter
-    company_url: ''
+    company_url: 'https://www.gigstarter.nl/'
     company_logo: ''
     date_start: 2020-10-01
     date_end: 2021-07-31
