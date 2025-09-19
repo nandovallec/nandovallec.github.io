@@ -78,8 +78,11 @@ sections:
     content:
       title: Awards
       username: admin
-  # - block: resume-projects
-  #   content:
-  #     title: Projects
-  #     username: admin
+  - block: resume-experience
+    id: projects
+    content:
+      title: Projects
+      username: admin
+    design:
+      is_education_first: false
 ---
