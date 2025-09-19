@@ -78,8 +78,8 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-projects
-    content:
-      title: Projects
-      username: admin
+  # - block: resume-projects
+  #   content:
+  #     title: Projects
+  #     username: admin
 ---
