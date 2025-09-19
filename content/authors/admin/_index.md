@@ -126,6 +126,9 @@ awards:
     icon: hero/trophy
     summary: |
       Web app that extracts emotions via DeepFace and recommends songs based on emotional state.
+
+    tags:
+      - project
   - title: Winner — EIT Digital Summer School (Cybersecurity)
     url: ''
     date: '2022-08-01'
