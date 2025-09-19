@@ -46,19 +46,19 @@ links:
   - type: pdf
     url: "https://arxiv.org/pdf/2505.02931"
   - type: code
-    url: ""   # Add GitHub repo if available
-  - type: dataset
-    url: ""   # Add dataset link if available
-  - type: slides
-    url: ""   # Add conference slides later
-  - type: video
-    url: ""   # Add recording if published
-  - type: source
-    url: ""   # Add supplementary repo if needed
+    url: "https://zenodo.org/records/15294696"   # Add GitHub repo if available
+  # - type: dataset
+  #   url: ""   # Add dataset link if available
+  # - type: slides
+  #   url: ""   # Add conference slides later
+  # - type: video
+  #   url: ""   # Add recording if published
+  # - type: source
+  #   url: ""   # Add supplementary repo if needed
 
 # Featured image
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  caption: ''
   focal_point: ""
   preview_only: false
 

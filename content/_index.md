@@ -62,10 +62,7 @@ sections:
   #     username: admin
   #   design:
   #     show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
+
   - block: collection
     id: papers
     content:
@@ -77,4 +74,12 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-projects
+    content:
+      title: Projects
+      username: admin
 ---

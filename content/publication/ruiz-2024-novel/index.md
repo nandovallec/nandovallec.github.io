@@ -70,19 +70,19 @@ links:
   - type: pdf
     url: https://arxiv.org/pdf/2401.07994
   - type: code
-    url: ""
+    url: "https://zenodo.org/records/10500594"
   - type: dataset
-    url: ""
-  - type: slides
-    url: ""
-  - type: video
-    url: ""
-  - type: source
-    url: ""
+    url: "https://zenodo.org/records/10500594"
+  # - type: slides
+  #   url: ""
+  # - type: video
+  #   url: ""
+  # - type: source
+  #   url: ""
 
 # Featured image (optional, place `featured.jpg/png` in the same folder)
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
+  caption: ""
   focal_point: ""
   preview_only: false
 
