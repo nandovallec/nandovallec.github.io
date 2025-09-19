@@ -79,8 +79,7 @@ sections:
       title: Awards
       username: admin
   - block: resume-awards
-    id: projects
     content:
       title: Projects
-      username: admin
+      username: projects
 ---
