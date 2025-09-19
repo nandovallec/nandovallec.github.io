@@ -82,9 +82,9 @@ sections:
     content:
       title: Projects
       username: admin
-        filters:
-          tags:
-            - project
+      filters:
+        tags:
+          - project
       awards:
         - title: TuneStar
           date: 2022-09-01 - 2022-09-30
