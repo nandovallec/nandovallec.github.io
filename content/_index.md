@@ -80,31 +80,23 @@ sections:
       username: admin
   - block: resume-awards
     content:
+      title: Awards
+      username: test
+  - block: markdown
+    id: projects
+    content:
       title: Projects
-      username: admin
-      filters:
-        tags:
-          - project
-      awards:
-        - title: TuneStar
-          date: 2022-09-01 - 2022-09-30
-          summary: 2nd Prize at KTH AI Hackathon. Emotion extraction with DeepFace to recommend music aligned to user state.
-        - title: HADIX
-          date: 2022-08-01 - 2022-08-31
-          summary: Winner at EIT Digital Summer School (Cybersecurity). Digital-twin anomaly detection for Industry 4.0; business plan and investor pitch.
-        - title: Green Mini Clouds
-          date: 2022-03-01 - 2022-07-31
-          summary: Popular vote winner among 12 teams. Concept for decentralized, renewable-powered edge computing.
-        - title: Bi4 Academy
-          date: 2020-02-01 - 2020-03-31
-          summary: 100-hour big data project using Python, Apache Parquet, Spark, and ML.
-        - title: 2019 PRMU Challenge
-          date: 2019-06-01 - 2019-08-31
-          summary: Applied algorithmic and CNN approaches to recognize characters in historical Japanese documents.
-        - title: Spaniards and Silicon Valley Program
-          date: 2019-07-01 - 2019-09-30
-          summary: Six-week mentorship from software engineers focused on interview prep for tech companies.
-        - title: Google Student Developer Club (Member)
-          date: 2019-10-01 - 2020-10-31
-          summary: Front-end contributor on student projects and events.
+      subtitle: ''
+      text: |-
+        - **TuneStar** *(Sep 2022)* — 2nd Prize at KTH AI Hackathon. Emotion extraction with DeepFace to recommend music aligned to user state.
+        - **HADIX** *(Aug 2022)* — Winner at EIT Digital Summer School (Cybersecurity). Digital-twin anomaly detection for Industry 4.0; business plan and investor pitch.
+        - **Green Mini Clouds** *(Mar–Jul 2022)* — Popular vote winner among 12 teams. Concept for decentralized, renewable-powered edge computing.
+        - **Bi4 Academy** *(Feb–Mar 2020)* — 100-hour big data project using Python, Apache Parquet, Spark, and ML.
+        - **2019 PRMU Challenge** *(Jun–Aug 2019)* — Applied algorithmic and CNN approaches to recognize characters in historical Japanese documents.
+        - **Spaniards and Silicon Valley Program** *(Jul–Sep 2019)* — Six-week mentorship from software engineers focused on interview prep for tech companies.
+        - **Google Student Developer Club (Member)** *(Oct 2019–Oct 2020)* — Front-end contributor on student projects and events.
+    design:
+      # Optional: tighten spacing to feel closer to the awards timeline
+      spacing:
+        padding: ['20px','0','20px','0']
 ---
