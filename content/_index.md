@@ -81,5 +81,27 @@ sections:
   - block: resume-awards
     content:
       title: Projects
-      username: projects
+      username: admin
+      awards:
+        - title: TuneStar
+          date: 2022-09-01 - 2022-09-30
+          summary: 2nd Prize at KTH AI Hackathon. Emotion extraction with DeepFace to recommend music aligned to user state.
+        - title: HADIX
+          date: 2022-08-01 - 2022-08-31
+          summary: Winner at EIT Digital Summer School (Cybersecurity). Digital-twin anomaly detection for Industry 4.0; business plan and investor pitch.
+        - title: Green Mini Clouds
+          date: 2022-03-01 - 2022-07-31
+          summary: Popular vote winner among 12 teams. Concept for decentralized, renewable-powered edge computing.
+        - title: Bi4 Academy
+          date: 2020-02-01 - 2020-03-31
+          summary: 100-hour big data project using Python, Apache Parquet, Spark, and ML.
+        - title: 2019 PRMU Challenge
+          date: 2019-06-01 - 2019-08-31
+          summary: Applied algorithmic and CNN approaches to recognize characters in historical Japanese documents.
+        - title: Spaniards and Silicon Valley Program
+          date: 2019-07-01 - 2019-09-30
+          summary: Six-week mentorship from software engineers focused on interview prep for tech companies.
+        - title: Google Student Developer Club (Member)
+          date: 2019-10-01 - 2020-10-31
+          summary: Front-end contributor on student projects and events.
 ---
