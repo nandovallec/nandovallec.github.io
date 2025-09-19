@@ -36,7 +36,7 @@ sections:
       text: |-
         I’m a Ph.D. candidate at Simula Research Laboratory working on LLM-Based Automatic Software Improvement. In other words, how to teach large language models to detect bugs, refactor code, and optimize performance with minimal human guidance. My goal is to make software engineering faster, safer, and more sustainable.
 
-        Having lived in Spain, the United States, Germany, Sweden, and Japan, I brings a global perspective to building practical ML systems.
+        Having lived in Spain, the United States, Germany, Sweden, and Japan, I bring a global perspective to building practical ML systems.
 
         What I’m exploring now
         - Self-refining agents for code repair and performance tuning

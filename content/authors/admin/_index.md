@@ -182,4 +182,4 @@ projects:
       Front-end contributor on student projects and events.
 ---
 
-Fernando Vallecillos Ruiz is an AI/ML Developer and Ph.D. candidate at Simula Research Laboratory, where he focuses on LLM-Based Automatic Software Improvement—using large language models to detect, repair, and optimize code. He holds a dual master’s in ICT Innovation (Autonomous Systems) from KTH Royal Institute of Technology and TU Berlin, and a B.Sc. in Computer Engineering from the University of Granada. Having lived in Spain, the United States, Germany, Sweden, and Japan, he brings a global perspective to building practical ML systems and exploring the intersection of AI and cybersecurity.
+Fernando Vallecillos Ruiz is an AI/ML Developer and Ph.D. candidate at Simula Research Laboratory, where he focuses on LLM-Based Automatic Software Improvement—using large language models to detect, repair, and optimize code. He holds a dual master’s in ICT Innovation (Autonomous Systems) from KTH Royal Institute of Technology and TU Berlin, and a B.Sc. in Computer Engineering from the University of Granada.
