@@ -119,30 +119,34 @@ languages:
     precent: 20
 
 awards:
-  - title: Xnd Prize — KTH AI Hackathon (TuneStar)
+  - title: Bi4 Academy
     url: ''
-    date: '2022-09-01'
-    awarder: KTH Royal Institute of Technology
-    icon: hero/trophy
+    date: '2020-03-31'
+    icon: hero/chart-bar
     summary: |
-      Web app that extracts emotions via DeepFace and recommends songs based on emotional state.
+      100-hour big data project using Python, Apache Parquet, Spark, and ML.
 
-    tags:
-      - project
-  - title: Winner — EIT Digital Summer School (Cybersecurity)
+  - title: 2019 PRMU Challenge
     url: ''
-    date: '2022-08-01'
-    awarder: EIT Digital
-    icon: hero/trophy
+    date: '2019-08-31'
+    icon: hero/document-text
     summary: |
-      Led HADIX: a digital-twin anomaly detection concept for Industry 4.0; pitched to investors with a full business plan.
-  - title: Popular Vote Winner — Green Mini Clouds
+      Applied algorithmic and CNN approaches to recognize characters in historical Japanese documents.
+
+  - title: Spaniards and Silicon Valley Program
     url: ''
-    date: '2022-07-01'
-    awarder: EIT Digital
-    icon: hero/academic-cap
+    date: '2019-09-30'
+    icon: hero/rocket-launch
     summary: |
-      Designed a decentralized, emission-less edge-computing provider powered by renewable energy.
+      Six-week mentorship from software engineers focused on interview prep for tech companies.
+
+  - title: Google Student Developer Club (Member)
+    url: ''
+    date: '2020-10-31'
+    icon: hero/user-group
+    summary: |
+      Front-end contributor on student projects and events.
+
 
 projects:
   - name: TuneStar
